@@ -1,0 +1,155 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I./src",
+      "-O3",
+      "-std=c17",
+      "-pedantic",
+      "-Wall",
+      "-c",
+      "-o",
+      "build/scenes/menu.o",
+      "src/scenes/menu.c"
+    ],
+    "directory": "/home/dani/Projects/prog1/NHF",
+    "file": "/home/dani/Projects/prog1/NHF/src/scenes/menu.c",
+    "output": "/home/dani/Projects/prog1/NHF/build/scenes/menu.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I./src",
+      "-O3",
+      "-std=c17",
+      "-pedantic",
+      "-Wall",
+      "-c",
+      "-o",
+      "build/scenes/new_game.o",
+      "src/scenes/new_game.c"
+    ],
+    "directory": "/home/dani/Projects/prog1/NHF",
+    "file": "/home/dani/Projects/prog1/NHF/src/scenes/new_game.c",
+    "output": "/home/dani/Projects/prog1/NHF/build/scenes/new_game.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I./src",
+      "-O3",
+      "-std=c17",
+      "-pedantic",
+      "-Wall",
+      "-c",
+      "-o",
+      "build/scenes/game.o",
+      "src/scenes/game.c"
+    ],
+    "directory": "/home/dani/Projects/prog1/NHF",
+    "file": "/home/dani/Projects/prog1/NHF/src/scenes/game.c",
+    "output": "/home/dani/Projects/prog1/NHF/build/scenes/game.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I./src",
+      "-O3",
+      "-std=c17",
+      "-pedantic",
+      "-Wall",
+      "-c",
+      "-o",
+      "build/texture.o",
+      "src/texture.c"
+    ],
+    "directory": "/home/dani/Projects/prog1/NHF",
+    "file": "/home/dani/Projects/prog1/NHF/src/texture.c",
+    "output": "/home/dani/Projects/prog1/NHF/build/texture.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I./src",
+      "-O3",
+      "-std=c17",
+      "-pedantic",
+      "-Wall",
+      "-c",
+      "-o",
+      "build/helpers.o",
+      "src/helpers.c"
+    ],
+    "directory": "/home/dani/Projects/prog1/NHF",
+    "file": "/home/dani/Projects/prog1/NHF/src/helpers.c",
+    "output": "/home/dani/Projects/prog1/NHF/build/helpers.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I./src",
+      "-O3",
+      "-std=c17",
+      "-pedantic",
+      "-Wall",
+      "-c",
+      "-o",
+      "build/engine/context.o",
+      "src/engine/context.c"
+    ],
+    "directory": "/home/dani/Projects/prog1/NHF",
+    "file": "/home/dani/Projects/prog1/NHF/src/engine/context.c",
+    "output": "/home/dani/Projects/prog1/NHF/build/engine/context.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I./src",
+      "-O3",
+      "-std=c17",
+      "-pedantic",
+      "-Wall",
+      "-c",
+      "-o",
+      "build/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/dani/Projects/prog1/NHF",
+    "file": "/home/dani/Projects/prog1/NHF/src/main.c",
+    "output": "/home/dani/Projects/prog1/NHF/build/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I./src",
+      "-O3",
+      "-std=c17",
+      "-pedantic",
+      "-Wall",
+      "-c",
+      "-o",
+      "build/map.o",
+      "src/map.c"
+    ],
+    "directory": "/home/dani/Projects/prog1/NHF",
+    "file": "/home/dani/Projects/prog1/NHF/src/map.c",
+    "output": "/home/dani/Projects/prog1/NHF/build/map.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I./src",
+      "-O3",
+      "-std=c17",
+      "-pedantic",
+      "-Wall",
+      "-c",
+      "-o",
+      "build/button.o",
+      "src/button.c"
+    ],
+    "directory": "/home/dani/Projects/prog1/NHF",
+    "file": "/home/dani/Projects/prog1/NHF/src/button.c",
+    "output": "/home/dani/Projects/prog1/NHF/build/button.o"
+  }
+]

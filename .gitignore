@@ -1,0 +1,12 @@
+obj/
+notes/
+.vscode/
+build/
+debug_build
+tags
+.ccls-cache/
+doxygen/
+savefile
+.cache/
+*.pdf
+*.zip
